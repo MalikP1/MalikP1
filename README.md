@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Started my coding journey in November 2023<br>📚 I'm currently learning Next.js and Python<br>🎯 Goals: To keep expanding my knowledge as a Full Stack Developer<br>🎲 Fun fact: I used to swim competitively</p>
+<p align="left">✨ Started my coding journey in November 2023<br>📚 I'm currently learning Next.js and Python<br>🎯 Goals: To keep expanding my knowledge as a Full Stack Developer<br>🎲 Fun fact: I used to swim competitively 🏊🏾‍♂️</p>
 
 ###
 
