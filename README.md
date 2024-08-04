@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Started my coding journey in November 2023<br>📚 I'm currently learning Next.js and Python<br>🎯 Goals: To keep expanding my knowledge as a Full Stack Developer<br>🎲 Fun fact: I used to swim competitively 🏊🏾‍♂️</p>
+<p align="left">✨ Started my coding journey in July 2023<br>📚 I'm currently building websites as a Freelance Software Developer.<br>🎯 Goals: To keep expanding my knowledge as a Full Stack Developer<br>🎲 Fun fact: I used to swim competitively 🏊🏾‍♂️</p>
 
 ###
 
@@ -48,6 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
 
 ###
